@@ -1,6 +1,6 @@
-# Author ReCode by : Sanz
-# Youtube    : SANZ SOEKAMTI
-# GitHub     : https://github.com/B4N954N2-ID
+# Author ReCode by : Q'BAYAN 45
+# Youtube    : Q'BAYAN 45
+# GitHub     : https://github.com/QBAYAN45
 # version    : Premium
 # Gunakan Dengan Bijak Ya *_*
 import marshal,zlib,base64
