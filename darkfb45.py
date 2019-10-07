@@ -1,5 +1,5 @@
-# Author ReCode by : Sanz
-# Youtube    : SANZ SOEKAMTI
+# Author ReCode by : Q'BAYAN 45
+# Youtube    : Q'BAYAN 45
 # GitHub     : https://github.com/B4N954N2-ID
 # version    : Premium
 # Gunakan Dengan Bijak Ya *_*
